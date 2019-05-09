@@ -1,0 +1,7 @@
+C:\Users\Nate\Documents\Music Playlist Analyzer - njb338\Music Playlist Analyzer - njb338\bin\Debug\Music Playlist Analyzer - njb338.exe.config
+C:\Users\Nate\Documents\Music Playlist Analyzer - njb338\Music Playlist Analyzer - njb338\bin\Debug\Music Playlist Analyzer - njb338.exe
+C:\Users\Nate\Documents\Music Playlist Analyzer - njb338\Music Playlist Analyzer - njb338\bin\Debug\Music Playlist Analyzer - njb338.pdb
+C:\Users\Nate\Documents\Music Playlist Analyzer - njb338\Music Playlist Analyzer - njb338\obj\Debug\Music Playlist Analyzer - njb338.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\Music Playlist Analyzer - njb338\Music Playlist Analyzer - njb338\obj\Debug\Music Playlist Analyzer - njb338.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Documents\Music Playlist Analyzer - njb338\Music Playlist Analyzer - njb338\obj\Debug\Music Playlist Analyzer - njb338.exe
+C:\Users\Nate\Documents\Music Playlist Analyzer - njb338\Music Playlist Analyzer - njb338\obj\Debug\Music Playlist Analyzer - njb338.pdb
